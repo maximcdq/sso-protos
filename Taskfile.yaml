@@ -1,5 +1,3 @@
-# See: https://taskfile.dev/api/
-
 version: "3"
 
 tasks:
